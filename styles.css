@@ -1,0 +1,152 @@
+body{
+    background-color: white;
+}
+
+h1{
+    text-align: center;
+    font-weight: 300;
+    
+}
+.head1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    color: hsl(234, 12%, 34%);
+    padding-top: 80px;
+}
+.head2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: hsl(234, 12%, 34%);
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+       color:hsl(229, 6%, 66%) ;
+       
+}
+
+
+h3{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 40px;
+    padding-top: 20px;
+}
+.sup{
+    background-color: hsl(0, 0%, 98%);
+    
+    margin-top: 250px;
+    border-radius: 0.5rem;
+    margin-left: 60px;
+    position: relative;
+    left: 20px;
+}
+.team{
+    background-color: hsl(0, 0%, 98%);
+    
+    margin-top: 100px;
+    border-radius: 0.5rem;
+    margin-left: 30px;
+    margin-right:30px;
+}
+
+.cal{
+background-color: hsl(0, 0%, 98%); 
+margin-top: 250px;
+border-radius: 0.5rem;
+margin-right: 60px;
+position: relative;
+right: 20px;
+
+   
+}
+.kar{
+    margin-top: 60px;
+    background-color: hsl(0, 0%, 98%);
+    border-radius: 0.5rem;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.img1{
+    margin-top: 100px;
+    margin-left: 340px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 40px;
+    left: -10px;
+}
+.img2-1{
+    margin-top: 100px;
+    margin-left: 380px;
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+}
+.img2-2{
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 20px;
+    position: relative;
+    bottom: 40px;
+    right: 60px;
+}
+.img3{
+    margin-top: 100px;
+    margin-left: 40px;
+    margin-left: 380px;
+    position: relative;
+    bottom: 40px;
+    right: 40px;
+}
+.t1{
+    margin-top: 20px;
+    text-align:left ;
+    margin-left: 40px;
+}
+.t2{
+    margin-top: 20px;
+    text-align:left ;
+    margin-left: 40px;
+}
+.t3{
+    margin-top: 20px;
+    text-align:left ;
+    margin-left: 40px;
+}
+.t4{
+    margin-top: 20px;
+    text-align:left ;
+    margin-left: 40px;
+}
+.c1{
+    background-color:hsl(180, 62%, 55%) ;
+    font-size: 3px;
+
+}
+.c2{
+    background-color:hsl(0, 78%, 62%) ;
+    font-size: 3px;
+
+}
+.c3{
+    background-color:hsl(34, 97%, 64%) ;
+    font-size: 3px;
+
+}
+.c4{
+    background-color: hsl(212, 86%, 64%)
+    ;
+    font-size: 3px;
+
+}
+.l1{
+    color:hsl(180, 62%, 55%)  ;
+}
+.l2{
+    color:hsl(0, 78%, 62%) ;
+}
+.l3{
+    color:hsl(34, 97%, 64%) ;
+}
+.l4{
+    color:hsl(212, 86%, 64%) ;
+}
